@@ -1,0 +1,11 @@
+{
+  "guidelineComplianceAssessmentInstanceRecord" : {
+    "guidelineComplianceAssessmentWorkProducts" : "guidelineComplianceAssessmentWorkProducts",
+    "documentReference" : "740089",
+    "guidelineComplianceAssessmentResult" : "guidelineComplianceAssessmentResult"
+  },
+  "guidelineComplianceAssessmentEvaluateActionReference" : "GCAEAR701344",
+  "guidelineComplianceAssessmentInstanceStatus" : "guidelineComplianceAssessmentInstanceStatus",
+  "guidelineComplianceAssessmentInstanceReference" : "GCAIR738520",
+  "guidelineComplianceAssessmentEvaluateActionRecord" : {}
+}

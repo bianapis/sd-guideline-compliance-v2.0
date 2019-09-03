@@ -1,0 +1,13 @@
+{
+  "guidelineComplianceAssessmentInstanceRecord" : {
+    "productServiceReference" : "773271",
+    "guidelineComplianceAssessmentWorkProducts" : "guidelineComplianceAssessmentWorkProducts",
+    "customerReference" : "758744",
+    "documentReference" : "713272",
+    "guidelineComplianceAssessmentType" : "guidelineComplianceAssessmentType",
+    "businessUnitReference" : "781273"
+  },
+  "guidelineComplianceAssessmentUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "guidelineComplianceAssessmentUpdateActionTaskReference" : "GCAUATR786543"
+}

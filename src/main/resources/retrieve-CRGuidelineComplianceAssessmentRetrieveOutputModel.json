@@ -1,0 +1,24 @@
+{
+  "guidelineComplianceAssessmentRetrieveActionResponse" : "guidelineComplianceAssessmentRetrieveActionResponse",
+  "guidelineComplianceAssessmentInstanceRecord" : {
+    "productServiceReference" : "709225",
+    "guidelineComplianceAssessmentWorkProducts" : "guidelineComplianceAssessmentWorkProducts",
+    "customerReference" : "716840",
+    "documentReference" : "727732",
+    "guidelineComplianceAssessmentResult" : "guidelineComplianceAssessmentResult",
+    "guidelineComplianceAssessmentType" : "guidelineComplianceAssessmentType",
+    "businessUnitReference" : "745418"
+  },
+  "guidelineComplianceAssessmentRetrieveActionTaskReference" : "GCARATR777931",
+  "guidelineComplianceAssessmentInstanceAnalysis" : {
+    "guidelineComplianceAssessmentInstanceAnalysisReport" : {},
+    "guidelineComplianceAssessmentInstanceAnalysisData" : "guidelineComplianceAssessmentInstanceAnalysisData",
+    "guidelineComplianceAssessmentInstanceAnalysisReportType" : "guidelineComplianceAssessmentInstanceAnalysisReportType"
+  },
+  "guidelineComplianceAssessmentRetrieveActionTaskRecord" : {},
+  "guidelineComplianceAssessmentInstanceReportRecord" : {
+    "guidelineComplianceAssessmentInstanceReport" : {},
+    "guidelineComplianceAssessmentInstanceReportType" : "guidelineComplianceAssessmentInstanceReportType",
+    "guidelineComplianceAssessmentInstanceReportData" : "guidelineComplianceAssessmentInstanceReportData"
+  }
+}

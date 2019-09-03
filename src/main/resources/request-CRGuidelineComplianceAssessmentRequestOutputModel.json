@@ -1,0 +1,15 @@
+{
+  "requestRecordReference" : "RRR730539",
+  "guidelineComplianceAssessmentInstanceRecord" : {
+    "productServiceReference" : "762387",
+    "guidelineComplianceAssessmentWorkProducts" : "guidelineComplianceAssessmentWorkProducts",
+    "customerReference" : "796677",
+    "documentReference" : "737293",
+    "guidelineComplianceAssessmentResult" : "guidelineComplianceAssessmentResult",
+    "guidelineComplianceAssessmentType" : "guidelineComplianceAssessmentType",
+    "businessUnitReference" : "746069"
+  },
+  "guidelineComplianceAssessmentRequestActionTaskReference" : "GCARATR731454",
+  "guidelineComplianceAssessmentRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}
